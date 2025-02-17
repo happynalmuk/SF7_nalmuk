@@ -17,6 +17,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;">  </div>  <br> 
     <div style="text-align: left;">  </div> 
+    ![free-icon-cabinet-15873456](https://github.com/user-attachments/assets/8b40d140-93bd-4587-92fb-df331115fe9a)
+
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=코코팜&bg_color=180,000000,&title_color=000000&text_color=000000"
